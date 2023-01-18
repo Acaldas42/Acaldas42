@@ -2,7 +2,7 @@
 🔭 I’m currently studying at 42 São Paulo<br>🌱 I’m currently learning C lenguage<br>💬 How to reach me agatap.caldas@gmail.com<br>⚡ "Be stubborn about your goals and flexible about your methods"
 
 ## ✅ Finished projects:
-https://game.42sp.org.br/static/assets/achievements/libfte.png
+<img="https://game.42sp.org.br/static/assets/achievements/libfte.png" width="250px"/>
 https://game.42sp.org.br/static/assets/achievements/get_next_linee.png
 https://game.42sp.org.br/static/assets/achievements/ft_printfe.png
 
