@@ -18,7 +18,5 @@
 ### ✍️ Cute Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="(https://s3.amazonaws.com/rails-camp-tutorials/blog/programming+memes/works-doesnt-work.jpg)" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Acaldas42&icon=7&color=9)](https://visitcount.itsvg.in)
