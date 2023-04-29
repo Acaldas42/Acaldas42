@@ -2,7 +2,8 @@
 🔭 I’m currently studying at 42 São Paulo<br>🌱 I’m currently learning C lenguage<br>💬 How to reach me agatap.caldas@gmail.com<br>⚡ "Be stubborn about your goals and flexible about your methods"
 
 ## ✅ Finished projects:
-<img src="https://game.42sp.org.br/static/assets/achievements/libfte.png" width="200px"> <img src="https://game.42sp.org.br/static/assets/achievements/get_next_linee.png" width="200px"> <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" width="200px"> <img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" width="200px">
+<img src="https://game.42sp.org.br/static/assets/achievements/libfte.png" width="200px"> <img src="https://game.42sp.org.br/static/assets/achievements/get_next_linee.png" width="200px"> <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" width="200px"> <img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" width="200px"> <img 
+src="https://game.42sp.org.br/static/assets/achievements/fract-ole.png" width="200px"> 
 
 
 ## 🌐 Socials:
