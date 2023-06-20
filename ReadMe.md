@@ -3,7 +3,8 @@
 
 ## ✅ Finished projects:
 <img src="https://game.42sp.org.br/static/assets/achievements/libfte.png" width="100px"> <img src="https://game.42sp.org.br/static/assets/achievements/get_next_linee.png" width="100px"> <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" width="100px"> <img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" width="100px"> <img 
-src="https://game.42sp.org.br/static/assets/achievements/fract-ole.png" width="100px"> 
+src="https://game.42sp.org.br/static/assets/achievements/fract-ole.png" width="100px"> <img src="https://game.42sp.org.br/static/assets/achievements/minitalke.png" width="100px"> 
+
 
 
 ## 🌐 Socials:
